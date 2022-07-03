@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/ts-loader/index.js):\\nTypeError: loaderContext.getOptions is not a function\\n    at getLoaderOptions (C:\\\\Users\\\\petro\\\\Desktop\\\\skillbox\\\\ReactJs\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:91:41)\\n    at Object.loader (C:\\\\Users\\\\petro\\\\Desktop\\\\skillbox\\\\ReactJs\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:14:21)\");\n\n//# sourceURL=webpack:///./src/index.jsx?");
+eval("throw new Error(\"Module build failed (from ./node_modules/ts-loader/index.js):\\nTypeError: loaderContext.getOptions is not a function\\n    at getLoaderOptions (C:\\\\Users\\\\petro\\\\Desktop\\\\Новая папка\\\\ReactJS-1\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:91:41)\\n    at Object.loader (C:\\\\Users\\\\petro\\\\Desktop\\\\Новая папка\\\\ReactJS-1\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:14:21)\");\n\n//# sourceURL=webpack:///./src/index.jsx?");
 
 /***/ })
 
